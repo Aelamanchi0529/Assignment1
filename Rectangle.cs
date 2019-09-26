@@ -8,8 +8,10 @@ namespace Assignment1
 {
     public class Rectangle
     {
+
         private int length;
         private int Width;
+
         public Rectangle()
         {
             length = 1;
@@ -43,7 +45,6 @@ namespace Assignment1
         {
             return 2 * (length + Width);
         }
-
         public int GetArea()
         {
             return (length * Width);
