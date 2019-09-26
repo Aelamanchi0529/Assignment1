@@ -91,8 +91,7 @@ namespace Assignment1
             bool initial_Selection = false;
             string initial_number;
             int select;
-
-
+            
             while (initial_Selection == false)
             {
                 Console.WriteLine("1 - Initial Default values, Length = 1 & Width = 1 rectangle\n");
