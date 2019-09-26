@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1", "Assignment1.csproj", "{DEAB65EF-15BE-4305-ADBE-39108AC1FEC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENG8040_Tests", "..\SENG8040_Tests\SENG8040_Tests.csproj", "{9EE820EE-29CB-4827-B35F-46AA041ABB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAB65EF-15BE-4305-ADBE-39108AC1FEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAB65EF-15BE-4305-ADBE-39108AC1FEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAB65EF-15BE-4305-ADBE-39108AC1FEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAB65EF-15BE-4305-ADBE-39108AC1FEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE820EE-29CB-4827-B35F-46AA041ABB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE820EE-29CB-4827-B35F-46AA041ABB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE820EE-29CB-4827-B35F-46AA041ABB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE820EE-29CB-4827-B35F-46AA041ABB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E328C63A-27AE-4D18-9401-685C807A5898}
+	EndGlobalSection
+EndGlobal

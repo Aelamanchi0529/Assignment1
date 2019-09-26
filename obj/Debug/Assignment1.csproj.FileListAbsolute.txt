@@ -1,0 +1,9 @@
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\bin\Debug\nunit.framework.dll
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\bin\Debug\nunit.framework.xml
+C:\Users\Ashritha Elamanchi\source\repos\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
